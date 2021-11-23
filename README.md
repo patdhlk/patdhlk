@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 [![Github](https://img.shields.io/github/followers/patdhlk?label=Follow&style=social)](https://github.com/mattn)
 
-I ❤ Open Source. I love [Vim](https://www.vim.org/) and [Go](https://golang.org).
+I ❤ Open Source. I love [Visual Studio](https://visualstudio.microsoft.com/), C#, C++ and [Go](https://golang.org).
 
 * Long-time .NET C# user&contributor
 * Long-time Golang user&contributor
 * Bosch Security Expert
-* Author of many Go, .NET and other dev tools* 
+* Author of many Go, .NET and other dev tools
 * Linux & Windows hacker
+* Founder, CTO and developer @[UpTux](https://github.com/uptux)
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/patdhlk).
 
