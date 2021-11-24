@@ -28,4 +28,4 @@ I ❤ Open Source. I love [Visual Studio](https://visualstudio.microsoft.com/), 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/patdhlk).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patdhlk&hide=html&count_private=false)
-![patdhlk's github stats](https://github-readme-stats.vercel.app/api?username=patdhlk&show_icons=true&count_private=true&line_height=40)
+![patdhlk's github stats](https://github-readme-stats.vercel.app/api?username=patdhlk&show_icons=true&count_private=true&line_height=40&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
