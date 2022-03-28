@@ -20,7 +20,7 @@ I ❤ Open Source. I love [Visual Studio](https://visualstudio.microsoft.com/), 
 
 * Long-time .NET C# user&contributor
 * Long-time Golang user&contributor
-* Bosch Security Expert
+* Bosch Security Technical Lead
 * Author of many Go, .NET and other dev tools
 * Linux & Windows hacker
 * Founder, CTO and developer @[UpTux](https://github.com/uptux)
