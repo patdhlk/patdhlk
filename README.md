@@ -23,7 +23,7 @@ I ❤ Open Source. I love [Visual Studio](https://visualstudio.microsoft.com/), 
 * Bosch Security Technical Lead
 * Author of many Go, .NET and other dev tools
 * Linux & Windows hacker
-* Founder, CTO and developer @[UpTux](https://github.com/uptux)
+* Co-Founder, CTO and developer @[UpTux](https://github.com/uptux)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patdhlk&hide=html&count_private=false&hide_border=true&theme=vision-friendly-dark)
 ![patdhlk's github stats](https://github-readme-stats.vercel.app/api?username=patdhlk&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vision-friendly-dark)
