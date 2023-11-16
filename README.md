@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I ❤ Open Source.
 
-* Senior Software Engineer - Cybersecurity @[Apex.AI](https://github.com/apexai)
+* Software Engineer - Cybersecurity @[Apex.AI](https://github.com/apexai)
 * Long-time .NET C# user&contributor
 * Long-time Golang and Rust user&contributor
 * Linux & Windows hacker
