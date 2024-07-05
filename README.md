@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hey there 👋, I'm patdhlk
 
-[![Github](https://img.shields.io/github/followers/patdhlk?label=Follow&style=social)](https://github.com/mattn)
+[![Github](https://img.shields.io/github/followers/patdhlk?label=Follow&style=social)](https://github.com/patdhlk)
 
 I ❤ Open Source.
 
