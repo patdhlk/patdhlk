@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 I ❤ Open Source.
 
 * Software Engineer, Safety & Security Officer @[Apex.AI](https://github.com/apexai)
-* Long-time .NET C# user&contributor
-* Long-time Golang and Rust user&contributor
-* Linux & Windows hacker
+* Part-time automation & robotics engieer
+* Game developer for fun
+* CISSP, CSSLP, ISSAP, ISSEP, CMSE, CEFS, ASPICE Provisional Assessor 
