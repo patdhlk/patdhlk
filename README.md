@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I ❤ Open Source.
 
-* Software Engineer, Safety & Security Officer @[Apex.AI](https://github.com/apexai)
-* Part-time automation & robotics engieer
+* Software Engineer, Cybersecurity Expert
+* Part-time automation & robotics engineer
 * Game developer for fun
 * CISSP, CSSLP, ISSAP, ISSEP, CMSE, CEFS, ASPICE Provisional Assessor 
