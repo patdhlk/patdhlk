@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 I ❤ Open Source.
 
-* Software Engineer, Cybersecurity Expert
-* Part-time automation & robotics engineer
+* Software Engineer
+* Cybersecurity Expert
 * docs-as-code evangelist
 * Game developer for fun
 * CISSP, CSSLP, ISSAP, ISSEP, CMSE, CEFS, ASPICE Provisional Assessor 
