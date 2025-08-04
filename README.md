@@ -22,5 +22,6 @@ I ❤ Open Source.
 
 * Software Engineer, Cybersecurity Expert
 * Part-time automation & robotics engineer
+* docs-as-code evangelist
 * Game developer for fun
 * CISSP, CSSLP, ISSAP, ISSEP, CMSE, CEFS, ASPICE Provisional Assessor 
