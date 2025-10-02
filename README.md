@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I ❤ Open Source.
 
-* Software Engineer
+* Principal Software Engineer
 * Cybersecurity Expert
 * docs-as-code evangelist
 * Game developer for fun
