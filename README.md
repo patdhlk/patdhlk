@@ -24,4 +24,5 @@ I ❤ Open Source.
 * Cybersecurity Expert
 * docs-as-code evangelist
 * Game developer for fun
-* CISSP, CSSLP, ISSAP, ISSEP, CMSE, CEFS, ASPICE Provisional Assessor 
+* CISSP, CSSLP, ISSAP, ISSEP, CMSE, CEFS, ASPICE Provisional Assessor
+* author of [C# iceoryx2 wrapper](https://github.com/eclipse-iceoryx/iceoryx2-csharp)
