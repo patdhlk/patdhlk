@@ -25,4 +25,4 @@ I ❤ Open Source.
 * docs-as-code evangelist
 * Game developer for fun
 * CISSP, CSSLP, ISSAP, ISSEP, CMSE, CEFS, ASPICE Provisional Assessor
-* author of [C# iceoryx2 wrapper](https://github.com/eclipse-iceoryx/iceoryx2-csharp)
+* author and maintainer of the [iceoryx2 C# wrapper](https://github.com/eclipse-iceoryx/iceoryx2-csharp)
